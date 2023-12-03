@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDDFT9CSZ38NemTVwIz3z47M3Z07Sxnwd4ILy2oCzb970/1ITF/mVwjuN3mME2IIQIoi/NdfPNHaBAHwN8zQow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ercosta\\source\\Eric\\TodoApp\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ercosta\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
